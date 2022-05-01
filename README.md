@@ -8,7 +8,7 @@ I am currently Active Duty Air Force and I am going to school majoring in Comput
 
 *   🌍  I'm based in Memphis, TN
 *   ✉️  You can contact me at [brandontillery29@gmail.com](mailto:brandontillery29@gmail.com)
-*   🧠  I'm learning Python### Skills<p align="left">
+*   🧠  I'm learning Python<p align="left">
                                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
                                 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
